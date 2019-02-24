@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='1(Find a pair in an array of size &apos;n&apos;, whose sum is X)'/>
+        <page name='2(Find a majority element in an array of size &apos;n&apos;)'/>
+    </pages>
+</playground>
