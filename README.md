@@ -13,3 +13,7 @@ LinkedLists
 
 1) [Algorithm to find the nth node from end of the linked list](https://github.com/codegeeker180/Programming-questions-of-DS-Algo/blob/d30708ef737b05e058a3fddf5700bbf69c179f8b/LinkList.playground/Pages/Algorithm%20to%20find%20the%20nth%20node%20from%20end%20of%20the%20linked%20list%20.xcplaygroundpage/Contents.swift#L59)
 2) [Algorithm to find the middle element of a linked list](https://github.com/codegeeker180/Programming-questions-of-DS-Algo/blob/d30708ef737b05e058a3fddf5700bbf69c179f8b/LinkList.playground/Pages/Algorithm%20to%20find%20the%20nth%20node%20from%20end%20of%20the%20linked%20list%20.xcplaygroundpage/Contents.swift#L97)
+
+Divide & Conquer
+
+1) [Find the median of two sorted arrays of same size](https://github.com/codegeeker180/Programming-questions-of-DS-Algo/blob/master/Divide%26Conquer.playground/Contents.swift)
